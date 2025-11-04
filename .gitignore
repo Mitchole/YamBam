@@ -1,7 +1,7 @@
-# Ignore everything in root
-*
+# Ignore everything in root directory (files only)
+/*
 
 # Except these items
-!.gitignore
-!README.md
-!yambam/
+!/.gitignore
+!/README.md
+!/yambam/
